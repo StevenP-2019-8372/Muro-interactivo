@@ -1,0 +1,18 @@
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+ 
+}
+.App-header{
+  margin-bottom: 90px;
+}
+
+#vista{
+  height: 100%;
+}
